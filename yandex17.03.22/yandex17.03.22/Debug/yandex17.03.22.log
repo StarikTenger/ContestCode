@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ilyin\GitHub\ContestCode\yandex17.03.22\yandex17.03.22\main.cpp(40,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  yandex17.03.22.vcxproj -> C:\Users\ilyin\GitHub\ContestCode\yandex17.03.22\Debug\yandex17.03.22.exe
